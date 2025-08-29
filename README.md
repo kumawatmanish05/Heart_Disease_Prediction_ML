@@ -63,6 +63,14 @@ Here is the accuracy result of the trained model:
 ---
 
 ## 🌟 Conclusion  
-This project demonstrates how **machine learning** can help in the **early detection of heart disease**. With further improvements, it has the potential to become a powerful tool in healthcare and save countless lives. ❤️  
+This project demonstrates how **machine learning** can help in the **early detection of heart disease**.  
+
+After training and evaluating multiple models, we found that:  
+- ✅ **K-Nearest Neighbors (KNN)** and **Logistic Regression** achieved the **highest accuracy** among all tested models.  
+- 📊 Other models like **Decision Tree, Random Forest, and SVM** also performed well but slightly less accurate.  
+- 🔑 The results indicate that simple yet powerful models (like Logistic Regression) can perform exceptionally well for medical datasets.  
+
+With further improvements and fine-tuning, this project has the potential to become a reliable **decision support tool** in healthcare and save countless lives. ❤️  
+  
 
 ---
