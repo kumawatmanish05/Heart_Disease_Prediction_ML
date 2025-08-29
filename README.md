@@ -53,6 +53,15 @@ This project builds a **classification model** to predict whether a person has h
 
 ---
 
+## 📈 Model Performance  
+
+Here is the accuracy result of the trained model:  
+
+![Accuracy Result](https://github.com/kumawatmanish05/Heart_Disease_Prediction_ML/blob/main/Images/Screenshot%202025-08-29%20201942.png?raw=true)
+
+
+---
+
 ## 🌟 Conclusion  
 This project demonstrates how **machine learning** can help in the **early detection of heart disease**. With further improvements, it has the potential to become a powerful tool in healthcare and save countless lives. ❤️  
 
