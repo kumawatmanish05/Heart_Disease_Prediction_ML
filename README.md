@@ -48,7 +48,7 @@ This project builds a **classification model** to predict whether a person has h
 
 ## 🚀 Future Scope  
 - Integration with a **Streamlit/Dashboard** for real-time prediction.  
-- Testing with larger & more diverse datasets.  
+- Testing with larger & more diverse datasets
 - Deployment as a **web or mobile app** for wider accessibility.  
 
 ---
